@@ -31,6 +31,8 @@ This relies off of Lavalink which you have to have **Java SDK 13** installed!
 
 1.8 or 14.0 will not work at all!
 
+Also please install the newer version of nodejs or it may not function as intended
+
 
 
 ## Where's the documentation for Erela.js?
