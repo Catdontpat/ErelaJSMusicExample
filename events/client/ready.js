@@ -12,7 +12,7 @@ module.exports = client => {
     client.user.setPresence({
         status: "dnd",
         activity: {
-            name: "Music",
+            name: `Music! ${prefix}help for commands!`,
             type: "LISTENING"
         }
     })
