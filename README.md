@@ -13,6 +13,8 @@ Thanks and have fun!
 
 # Q&A
 
+**Please make sure to change the config.json file with your bot token**
+
 ## How to run the bot?
 
 First run lavalink by going into the file directory and doing:
